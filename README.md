@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="Company Banner" />
+  <img src="assets/img/banner.png" alt="Company Banner" />
 </p>
 
 # Soluciones Hospitalarias de la Costa S.A.S.
