@@ -8,15 +8,12 @@
 > Medical equipment sales, service & biomedical solutions — Barranquilla, Colombia.  
 > Professional profile for GitHub Organization page.
 
-[Website](https://solucioneshospitalariaseu.com/wp/)
-
 ---
 
 ## Table of contents
 - [About](#about)
 - [Services](#services)
 - [Products](#products)
-- [Quick Links](#quick-links)
 - [Contact](#contact)
 - [Business Hours](#business-hours)
 
@@ -59,15 +56,6 @@ Refer to the company website product pages for the full catalog.
 
 ---
 
-## Quick Links
-
-- Company site: `https://solucioneshospitalariaseu.com/wp/`  
-- Services overview: `/servicios/` (on site)  
-- Products: `/productos/` (on site)  
-*(Use the full site links when publishing the README in the repository.)*
-
----
-
 ## Contact
 
 **Headquarters:** Calle 58 No. 37 – 05, Barrio El Recreo, Barranquilla – Atlántico, Colombia  
@@ -79,8 +67,6 @@ Refer to the company website product pages for the full catalog.
 - Purchasing & Warehouse: compras@solucioneshospitalariaseu.com  
 - Accounting: contabilidad@solucioneshospitalariaseu.com  
 - Management: gerencia@solucioneshospitalariaseu.com
-
-*(All contact details are copied from the company website.)*
 
 ---
 
